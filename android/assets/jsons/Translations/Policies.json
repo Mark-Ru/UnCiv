@@ -96,7 +96,7 @@
 		German:"Aristokratie"
 		French:"Aristocratie"
 		Czech:"Aristokracie"
-		Ukrainian:"Аристокатія"
+		Ukrainian:"Аристократія"
 }
 
 	"+15% production when constructing wonders, +1 happiness for every 10 citizens in a city":{
@@ -201,6 +201,7 @@
 		Portuguese:"Monarquia"
 		German:"Monarchie"
 		French:"Monarchie"
+		
 		Czech:"Monarchie"
 }
 
