@@ -31,7 +31,7 @@
 		German:"Bitte warten..."
 		Japanese:"ワーキング..."
 		Czech:"Počítám..."
-		Ukrainian:"Обробка…"
+		Ukrainian:"Обробка..."
 		Korean:"로딩 중..."
 }
 
@@ -41,7 +41,7 @@
 		Traditional_Chinese:"等待其他玩家...",
 		Russian:"Ожидание других игроков..."
 		Czech:"Čekáme na ostatní hráče..."
-		Ukrainian:"Очікування інших гравців…"
+		Ukrainian:"Очікування інших гравців..."
 		German:"Warte auf andere SpielerInnen..."
 		French:"En attente des autres joueurs..."
 		Korean:"다른 플레이어를 기다리는 중..."
@@ -127,7 +127,7 @@
                 Russian:"ход"
 		French:"tour"
 		Czech:"tah"
-		Ukrainian:"ходів"
+		Ukrainian:"хід"
 		German:"Runde"
 		Korean:"턴"
 }
